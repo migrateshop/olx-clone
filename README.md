@@ -3,7 +3,6 @@
 
 <h1 align="center"> OLX Clone - Develop a Profitable Online Classified Marketplace Today! </h1>
 
-OLX Clone to Generate Revenue Today!
 
 In today's digital era, online classified marketplaces have become indispensable platforms for buying and selling goods and services. With the success of platforms like OLX, there's growing interest among entrepreneurs to create their online classified marketplace.
 
